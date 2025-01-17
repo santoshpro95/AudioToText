@@ -42,8 +42,10 @@ class _HomeScreenState extends State<HomeScreen> {
 
   // region Body
   Widget body() {
-    return Center(
-      child: Text(AppStrings.appFeature),
+    return Column(
+      children: [
+
+      ],
     );
   }
 
